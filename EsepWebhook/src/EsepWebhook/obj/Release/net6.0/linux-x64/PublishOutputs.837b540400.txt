@@ -3,4 +3,5 @@ D:\r_qia\Documents\UF\Fall 2023\CIS4930 Enterprise Software Engineering\event-dr
 D:\r_qia\Documents\UF\Fall 2023\CIS4930 Enterprise Software Engineering\event-driven-architecture\esep-webhooks\EsepWebhook\src\EsepWebhook\bin\Release\net6.0\publish\EsepWebhook.pdb
 D:\r_qia\Documents\UF\Fall 2023\CIS4930 Enterprise Software Engineering\event-driven-architecture\esep-webhooks\EsepWebhook\src\EsepWebhook\bin\Release\net6.0\publish\Amazon.Lambda.Core.dll
 D:\r_qia\Documents\UF\Fall 2023\CIS4930 Enterprise Software Engineering\event-driven-architecture\esep-webhooks\EsepWebhook\src\EsepWebhook\bin\Release\net6.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+D:\r_qia\Documents\UF\Fall 2023\CIS4930 Enterprise Software Engineering\event-driven-architecture\esep-webhooks\EsepWebhook\src\EsepWebhook\bin\Release\net6.0\publish\Newtonsoft.Json.dll
 D:\r_qia\Documents\UF\Fall 2023\CIS4930 Enterprise Software Engineering\event-driven-architecture\esep-webhooks\EsepWebhook\src\EsepWebhook\bin\Release\net6.0\publish\EsepWebhook.dll
